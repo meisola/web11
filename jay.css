@@ -1,0 +1,151 @@
+html{
+height: 2000px;
+width: 1280px;
+font-family: PingFangTC-Regular;
+}
+#canon{
+margin-left: 148px;
+margin-top:40px;
+margin-right: 664px;
+margin-bottom: 10px;
+}
+#support{
+margin-top: 49px;
+margin-right: 16px;
+margin-bottom: 19px;
+
+}
+.boo1{
+position: absolute;
+margin-left: 37px;
+margin-top: 134px;
+font-size: 60px;
+color: white;
+background-color: rgba(255,255,255,0.5);
+height: 85px;
+width: 270px;
+text-align: center;
+display: inline;
+}
+
+.banner{
+position: relative;
+width: 270px;
+}
+.bo{
+margin-top: 40px;
+display: inline;
+margin-left: 37px;
+margin-right: 14px;
+}
+.pic1{
+background: "img/picture1.png";
+color: white;
+
+}
+.ff img{
+margin-top: 45px;
+margin-left: 32px;
+margin-right: 3px;
+margin-bottom: 20px;
+}
+#cus{
+margin-left: 71px;
+
+}
+
+.down{
+color:white;
+display: inline;
+text-align: center;
+margin-left: 77px;
+margin-right: 35px;
+font-size: 18px;
+
+}
+#shop{
+margin-left: 100px;
+
+}
+
+
+.ff{
+  background-color: #F35D5E;
+  width: 985px;
+  height: 338px;
+  margin-top: 45px;
+}
+
+.bc{
+background-color: #D2D2D2;
+width: 985px;
+height: 460px;
+
+}
+.book{
+display: inline-block;
+width: 140px;
+height: 35px;
+font-size: 30px;
+background-color: #A0A0A0;
+text-align: center;
+color: white;
+margin-left: 103px;
+margin-top: 40px;
+margin-right: 73px;
+}
+
+
+
+.col{
+background-color: #F9E1DD;
+width: 985px;
+height: 887px;
+margin-left: 147px;
+padding-top: 40px;
+}
+li{
+  display: inline;
+  font-size: 30px;
+  color:white;
+  margin-left: 60px;
+}
+ul{
+  margin-left: 147px;
+background-color: #A0A0A0;
+height: 40px;
+width: 955px;
+list-style: none;
+}
+.head1{
+display: inline-block;
+
+}
+.foo{
+display: inline;
+
+}
+#ww{
+margin-left: 220px;
+margin-right: 300px;
+
+
+}
+.footer{
+color:#FFFFFF;
+font-size: 18px;
+background-color: #D2D2D2;
+height: 190px;
+
+
+}
+
+
+.footer img{
+  margin-top: 64px;
+  margin-right: 22px;
+}
+.clear
+{
+  clear: both;
+}
